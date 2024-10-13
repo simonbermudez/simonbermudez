@@ -1,5 +1,3 @@
-![👋 Hi, my name is Simon Bermudez]
-
 <p align="center">
   <img width="626" src="banner.jpg">
 </p>
