@@ -1,5 +1,9 @@
 ![👋 Hi, my name is Simon Bermudez](banner.jpg)
 
+<p align="center">
+  <img width="626" src="banner.jpg">
+</p>
+
 ![Profile views](https://komarev.com/ghpvc/?username=simonbermudez&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
