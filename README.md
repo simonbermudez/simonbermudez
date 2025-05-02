@@ -31,7 +31,7 @@ Let’s connect and explore potential collaborations!</h3>**
 - 🌱 I'm currently learning: **📚 Exploring AI Agents**
 - 💬 Ask me about: **💡 Any of my skills listed bellow!**
 - ⚡ Fun fact: **🎢 When I talk on my sleep, I usually say things related to programming.**
-- 📂 Portfolio: **<a href="simonbermudez.com" target="_blank">simonbermudez.com</a>**
+- 📂 Portfolio: **<a href="https://simonbermudez.com" target="_blank">simonbermudez.com</a>**
 
  **<h3 align="center">Skills</h3>**
 
